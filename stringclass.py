@@ -5,7 +5,8 @@ age = 62
 # print(full_name)
 # print(len(full_name.strip()))
 print('hello my name is ' + full_name +' and i am '+ str(age))
-
+output = 'name'
+print(output)
 
 # print(f'Hello my name is {full_name}.and i am {age}')
 
